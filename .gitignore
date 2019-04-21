@@ -1,0 +1,11 @@
+*.rar
+
+
+build/
+
+
+
+##environment
+venv/
+__pycache__/
+.idea/
